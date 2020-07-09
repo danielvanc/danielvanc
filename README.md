@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Will fill this in later...
+![Daniel Van Cuylenburg - Front-end Developer](https://res.cloudinary.com/danielvanc/image/upload/v1594319147/logo.jpg)
 
 <!--
 **danielvanc/danielvanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
