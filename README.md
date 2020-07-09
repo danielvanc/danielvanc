@@ -3,9 +3,10 @@
 
 Welcome to my personal github where, when I get the spare time, I love to build / design things for the web or mobile and experiment with new technologies.
 
-These days, I mostly code in:  Styled Components /  React / Gatsby or Next JS / Apollo GraphQL / Firebase / AWS / Fauna and use either Gatsby Cloud / Vercel and Netlify.
+These days, I mostly use:  
+[Styled Components](https://styled-components.com/) /  [React](https://reactjs.org/) / [Gatsby](https://www.gatsbyjs.org/) / [Next JS](https://nextjs.org/) and [Apollo GraphQL](https://www.apollographql.com/). For image hosting: [Cloudinary](https://cloudinary.com/). For DB mangagement: [Sanity](https://www.sanity.io/) or [Firebase](https://firebase.google.com/) and for hosting,  either: [Gatsby Cloud](https://www.gatsbyjs.com/) / [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
 
-Check out what I’m up [now](https://www.danielvanc.com/now), what I [use](https://www.danielvanc.com/uses/) and what I’ve [written lately](https://www.danielvanc.com/notes/).
+Check out what I’m up [now](https://www.danielvanc.com/now), what I tech [use](https://www.danielvanc.com/uses/) and what I’ve [written lately](https://www.danielvanc.com/notes/).
 
 <!--
 **danielvanc/danielvanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
