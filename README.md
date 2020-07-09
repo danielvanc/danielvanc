@@ -3,7 +3,11 @@
 
 Welcome to my personal github where, when I get the spare time, I love to build / design things for the web or mobile and experiment with new technologies.
 
-These days, I mostly use: [Styled Components](https://styled-components.com/) /  [React](https://reactjs.org/) / [Gatsby](https://www.gatsbyjs.org/) / [Next JS](https://nextjs.org/) and [Apollo GraphQL](https://www.apollographql.com/). For image hosting: [Cloudinary](https://cloudinary.com/). For DB mangagement: [Sanity](https://www.sanity.io/) or [Firebase](https://firebase.google.com/) and for hosting,  either: [Gatsby Cloud](https://www.gatsbyjs.com/) / [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
+These days I mostly code with: [Styled Components](https://styled-components.com/) /  [React](https://reactjs.org/) / [Gatsby](https://www.gatsbyjs.org/) / [Next JS](https://nextjs.org/) [Node](https://nodejs.org/) and [Apollo GraphQL](https://www.apollographql.com/). Host images on: [Cloudinary](https://cloudinary.com/). Mangage data with: [Sanity](https://www.sanity.io/) or [Firebase](https://firebase.google.com/) and host my sites / apps with either: [Gatsby Cloud](https://www.gatsbyjs.com/) / [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
+
+I'm currently working my way through the [freeCodeCamp.org curriculum](https://www.freecodecamp.org) and so far have completed the [Responsive Web Design](https://www.freecodecamp.org/certification/danielvanc/responsive-web-design), [JavaScript Alogorihthms and Data Structures](https://www.freecodecamp.org/certification/danielvanc/javascript-algorithms-and-data-structures), and [Front-end Libraries](https://www.freecodecamp.org/certification/danielvanc/front-end-libraries) certificates. When I'm not doing that, I'm learning lots [FrontendMasters](https://frontendmasters.com/).
+
+I'm looking to learn next: [React Native](https://reactnative.dev/), [Fauna](https://fauna.com/), [Express JS](https://expressjs.com/), [Google Cloud](https://cloud.google.com/)
 
 Check out what I’m up [now](https://www.danielvanc.com/now), what I tech [use](https://www.danielvanc.com/uses/) and what I’ve [written lately](https://www.danielvanc.com/notes/).
 
