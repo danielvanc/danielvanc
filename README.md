@@ -1,6 +1,12 @@
 
 ![Daniel Van Cuylenburg - Front-end Developer](https://res.cloudinary.com/danielvanc/image/upload/v1594319498/logo2.jpg)
 
+Welcome to my personal github where, when I get the spare time, I love to build / design things for the web or mobile and experiment with new technologies.
+
+These days, I mostly code in:  Styled Components /  Theme UI /  Bulma / Tailwind / React / Gatsby / Next JS / Apollo GraphQL / Firebase / AWS / Fauna Gatsby Cloud / Vercel and Netlify.
+
+Check out what I’m up [now](https://www.danielvanc.com/now), what I [use](https://www.danielvanc.com/uses/) and what I’ve [written lately](https://www.danielvanc.com/notes/).
+
 <!--
 **danielvanc/danielvanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
