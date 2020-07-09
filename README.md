@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![Daniel Van Cuylenburg - Front-end Developer](https://res.cloudinary.com/danielvanc/image/upload/v1594319147/logo.jpg)
 
