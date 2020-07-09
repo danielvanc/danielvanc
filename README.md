@@ -3,7 +3,7 @@
 
 Welcome to my personal github where, when I get the spare time, I love to build / design things for the web or mobile and experiment with new technologies.
 
-These days, I mostly code in:  Styled Components /  Theme UI /  Bulma / Tailwind / React / Gatsby / Next JS / Apollo GraphQL / Firebase / AWS / Fauna Gatsby Cloud / Vercel and Netlify.
+These days, I mostly code in:  Styled Components /  React / Gatsby or Next JS / Apollo GraphQL / Firebase / AWS / Fauna and use either Gatsby Cloud / Vercel and Netlify.
 
 Check out what I’m up [now](https://www.danielvanc.com/now), what I [use](https://www.danielvanc.com/uses/) and what I’ve [written lately](https://www.danielvanc.com/notes/).
 
