@@ -7,8 +7,6 @@ I mostly code with: [Styled Components](https://styled-components.com/),  [React
 
 I learn a ton of stuff on [FrontendMasters](https://frontendmasters.com/) and have completed the freeCodeCamp.org [Responsive Web Design](https://www.freecodecamp.org/certification/danielvanc/responsive-web-design), [JavaScript Alogorihthms and Data Structures](https://www.freecodecamp.org/certification/danielvanc/javascript-algorithms-and-data-structures), and [Front-end Libraries](https://www.freecodecamp.org/certification/danielvanc/front-end-libraries) certificates.
 
-Looking to learn next: [React Native](https://reactnative.dev/), [Fauna](https://fauna.com/), [Express JS](https://expressjs.com/) and the [Google Cloud Platform](https://cloud.google.com/).
-
 Check out what I’m up [now](https://www.danielvanc.com/now), what tech I [use](https://www.danielvanc.com/uses/) and what I’ve [written lately](https://www.danielvanc.com/notes/).
 
 *Last updated: 9th July, 2020*
