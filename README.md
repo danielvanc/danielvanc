@@ -1,18 +1,14 @@
 
 ![Daniel Van Cuylenburg - Front-end Developer](https://res.cloudinary.com/danielvanc/image/upload/v1594322900/logo4.jpg)
 
-Welcome to my personal github where, when I get the spare time, I love to build / design things for the web or mobile and experiment with new technologies.
+🏠 Welcome to my personal github where, when I get the spare time, I love to build / design things for the web or mobile and experiment with new technologies.
 
-I mostly code with: [Styled Components](https://styled-components.com/),  [React](https://reactjs.org/), [Gatsby](https://www.gatsbyjs.org/), [Next JS](https://nextjs.org/), [Node](https://nodejs.org/) and [Apollo GraphQL](https://www.apollographql.com/) and write tests with [Jest](https://jestjs.io/), [React testing library](https://testing-library.com/docs/react-testing-library) and [Cypress](https://www.cypress.io/). I host my images on: [Cloudinary](https://cloudinary.com/), manage data with: [Sanity](https://www.sanity.io/) or [Firebase](https://firebase.google.com/) and have my sites / apps build with either: [Gatsby Cloud](https://www.gatsbyjs.com/), [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
-
-I design with either [Sketch](https://www.sketch.com/) and/or [Figma](https://www.figma.com/). 
-
-I organise my day with [ToDoist](https://todoist.com/?gclid=Cj0KCQjwgJv4BRCrARIsAB17JI50-Q9F90wbawvd6tdOy-vHJmZsmV8hGIv1eQoxmQEOf5FwK5GcU7IaAvAkEALw_wcB).
+🛠 I mostly code with: [Styled Components](https://styled-components.com/),  [React](https://reactjs.org/), [Gatsby](https://www.gatsbyjs.org/), [Next JS](https://nextjs.org/), [Node](https://nodejs.org/) and [Apollo GraphQL](https://www.apollographql.com/) and write tests with [Jest](https://jestjs.io/), [React testing library](https://testing-library.com/docs/react-testing-library) and [Cypress](https://www.cypress.io/). I host my images on: [Cloudinary](https://cloudinary.com/), manage data with: [Sanity](https://www.sanity.io/) or [Firebase](https://firebase.google.com/) and have my sites / apps build with either: [Gatsby Cloud](https://www.gatsbyjs.com/), [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
 
 **Studying:**
-I'm learning a ton of stuff on [FrontendMasters](https://frontendmasters.com/) and so far have completed the [Responsive Web Design](https://www.freecodecamp.org/certification/danielvanc/responsive-web-design), [JavaScript Alogorihthms and Data Structures](https://www.freecodecamp.org/certification/danielvanc/javascript-algorithms-and-data-structures), and [Front-end Libraries](https://www.freecodecamp.org/certification/danielvanc/front-end-libraries) freeCodeCamp.org certificates.
+👨🏻‍🎓 I'm learning a ton of stuff on [FrontendMasters](https://frontendmasters.com/) and so far have completed the [Responsive Web Design](https://www.freecodecamp.org/certification/danielvanc/responsive-web-design), [JavaScript Alogorihthms and Data Structures](https://www.freecodecamp.org/certification/danielvanc/javascript-algorithms-and-data-structures), and [Front-end Libraries](https://www.freecodecamp.org/certification/danielvanc/front-end-libraries) freeCodeCamp.org certificates.
 
-I'm looking to learn next: [React Native](https://reactnative.dev/), [Fauna](https://fauna.com/), [Express JS](https://expressjs.com/), [Google Cloud](https://cloud.google.com/)
+📚 I'm looking to learn next: [React Native](https://reactnative.dev/), [Fauna](https://fauna.com/), [Express JS](https://expressjs.com/), [Google Cloud](https://cloud.google.com/)
 
 Check out what I’m up [now](https://www.danielvanc.com/now), what I tech [use](https://www.danielvanc.com/uses/) and what I’ve [written lately](https://www.danielvanc.com/notes/).
 
