@@ -1,5 +1,5 @@
 
-![Daniel Van Cuylenburg - Front-end Developer](https://res.cloudinary.com/danielvanc/image/upload/v1594321018/logo3.jpg)
+![Daniel Van Cuylenburg - Front-end Developer](https://res.cloudinary.com/danielvanc/image/upload/v1594322900/logo4.jpg)
 
 Welcome to my personal github where, when I get the spare time, I love to build / design things for the web or mobile and experiment with new technologies.
 
@@ -11,6 +11,8 @@ I'm learning a ton of stuff on [FrontendMasters](https://frontendmasters.com/). 
 I'm looking to learn next: [React Native](https://reactnative.dev/), [Fauna](https://fauna.com/), [Express JS](https://expressjs.com/), [Google Cloud](https://cloud.google.com/)
 
 Check out what I’m up [now](https://www.danielvanc.com/now), what I tech [use](https://www.danielvanc.com/uses/) and what I’ve [written lately](https://www.danielvanc.com/notes/).
+
+*Last updated: 9th July, 2020*
 
 <!--
 **danielvanc/danielvanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
