@@ -1,5 +1,5 @@
 
-![Daniel Van Cuylenburg - Front-end Developer](https://res.cloudinary.com/danielvanc/image/upload/v1594319147/logo.jpg)
+![Daniel Van Cuylenburg - Front-end Developer](https://res.cloudinary.com/danielvanc/image/upload/v1594319498/logo2.jpg)
 
 <!--
 **danielvanc/danielvanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
