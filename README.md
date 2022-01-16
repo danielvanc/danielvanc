@@ -3,10 +3,10 @@
 Hi! I'm Dan, a Senior Front-end and React Developer from the Isle of Wight, U.K. 
 
 My tech stack consists largely of: 
-- [Styled Components](https://styled-components.com/)
 - [React](https://reactjs.org/) 
 - [Remix](https://remix.run) or [Next JS](https://nextjs.org/)
 - [React Query](https://react-query.tanstack.com//) 
+- [Tailwind](https://tailwindcss.com/) or [Styled Components](https://styled-components.com/)
 - [Jest](https://jestjs.io/) 
 - [React testing library](https://testing-library.com/docs/react-testing-library) 
 - [Cypress](https://www.cypress.io/) 
