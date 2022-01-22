@@ -15,4 +15,4 @@ My tech stack consists largely of:
 - [Supabase](https://supabase.com)
 - [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/)
 
-*Find me on [LinkedIn](https://www.linkedin.com/in/danielvanc/) and [Twitter](https://www.twitter.com/danielvanc). Feel free to check out what I’m up [now](https://www.danielvanc.com/now), what tech I [use](https://www.danielvanc.com/uses/) and what I've been [writing](https://www.danielvanc.com/notes/).*
+Find me on [LinkedIn](https://www.linkedin.com/in/danielvanc/) and [Twitter](https://www.twitter.com/danielvanc).
