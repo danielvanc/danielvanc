@@ -12,6 +12,7 @@ My tech stack consists largely of:
 - [Cypress](https://www.cypress.io/) 
 - [Cloudinary](https://cloudinary.com/)
 - [Sanity](https://www.sanity.io/) 
+- [Prisma](https://www.prisma.io/)
 - [Supabase](https://supabase.com)
 - [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/)
 
