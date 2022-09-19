@@ -6,6 +6,7 @@ My tech stack consists largely of:
 - [React](https://reactjs.org/) + TypeScript
 - [Remix](https://remix.run) or [Next JS](https://nextjs.org/)
 - Greensock
+- Framer Motion
 - [Tailwind](https://tailwindcss.com/) or [Styled Components](https://styled-components.com/)
 - [Jest](https://jestjs.io/) 
 - [React + DOM testing library](https://testing-library.com/docs/react-testing-library) 
