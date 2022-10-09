@@ -5,6 +5,7 @@ Hi! I'm Dan, a Senior Front-end and React Developer from the Isle of Wight, U.K.
 My tech stack consists largely of: 
 - [React](https://reactjs.org/) + TypeScript
 - [Remix](https://remix.run) or [Next JS](https://nextjs.org/)
+- Redis
 - Greensock
 - Framer Motion
 - [Tailwind](https://tailwindcss.com/) or [Styled Components](https://styled-components.com/)
