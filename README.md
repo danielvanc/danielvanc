@@ -2,7 +2,7 @@
 
 Hi! I'm Dan, a Senior Front-end and React Developer from the Isle of Wight, U.K. 
 
-My tech stack consists largely of: 
+My day to day tech stack these days mostly consists of: 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Remix](https://remix.run)
@@ -10,9 +10,8 @@ My tech stack consists largely of:
 - [Redis](https://redis.io/)
 - [Greensock](https://greensock.com/)
 - [Framer Motion](https://www.framer.com/motion/)
-- [Tailwind](https://tailwindcss.com/) or [Styled Components](https://styled-components.com/)
-- [ViTest](https://vitest.dev/)
-- [Jest](https://jestjs.io/) 
+- [Tailwind](https://tailwindcss.com/)
+- [Jest](https://jestjs.io/) **in process of migrating to [ViTest](https://vitest.dev/)**
 - [React testing library](https://testing-library.com/docs/react-testing-library) 
 - [Cypress](https://www.cypress.io/) **in process of migrating to [Playwright](https://playwright.dev/)**
 - [Cloudinary](https://cloudinary.com/)
