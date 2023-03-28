@@ -14,7 +14,7 @@ My tech stack consists largely of:
 - [ViTest](https://vitest.dev/)
 - [Jest](https://jestjs.io/) 
 - [React testing library](https://testing-library.com/docs/react-testing-library) 
-- [Cypress](https://www.cypress.io/) 
+- [Cypress](https://www.cypress.io/) **in process of migrating to [Playwright](https://playwright.dev/)**
 - [Cloudinary](https://cloudinary.com/)
 - [Sanity](https://www.sanity.io/) 
 - [Prisma](https://www.prisma.io/)
