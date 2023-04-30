@@ -1,8 +1,8 @@
 
 
-Hi! I'm Dan, a Senior Front-end and React Developer from the Isle of Wight, U.K. 
+Hi! I'm Daniel Van Cuylenburg, a Senior Front-end Engineer at [Vyne](https://payvyne.com), from the Isle of Wight, U.K. 
 
-My day to day tech stack these days mostly consists of: 
+My tech stack these days mostly consists of: 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Remix](https://remix.run)
