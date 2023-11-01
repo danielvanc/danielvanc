@@ -11,11 +11,11 @@ My tech stack these days mostly consists of:
 - [Greensock](https://greensock.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Tailwind](https://tailwindcss.com/)
-- [Jest](https://jestjs.io/) **in process of migrating to [ViTest](https://vitest.dev/)**
+- [Jest](https://jestjs.io/)
+- [ViTest](https://vitest.dev/)
 - [React testing library](https://testing-library.com/docs/react-testing-library) 
-- [Cypress](https://www.cypress.io/) **in process of migrating to [Playwright](https://playwright.dev/)**
+- [Playwright](https://playwright.dev/)
 - [Cloudinary](https://cloudinary.com/)
-- [Sanity](https://www.sanity.io/) 
 - [Prisma](https://www.prisma.io/)
 - [Supabase](https://supabase.com)
 - [Fly.io](https://fly.io/)
