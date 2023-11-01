@@ -18,6 +18,7 @@ My tech stack these days mostly consists of:
 - [Sanity](https://www.sanity.io/) 
 - [Prisma](https://www.prisma.io/)
 - [Supabase](https://supabase.com)
-- [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/)
+- [Fly.io](https://fly.io/)
+- [Vercel](https://vercel.com/)
 
 Find me on [LinkedIn](https://www.linkedin.com/in/danielvanc/) and [Twitter](https://www.twitter.com/danielvanc).
