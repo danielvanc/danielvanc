@@ -20,5 +20,6 @@ My tech stack these days mostly consists of:
 - [Supabase](https://supabase.com)
 - [Fly.io](https://fly.io/)
 - [Vercel](https://vercel.com/)
+- [StoryBook](https://storybook.js.org)
 
-Find me on [LinkedIn](https://www.linkedin.com/in/danielvanc/) and [Twitter](https://www.twitter.com/danielvanc).
+Find me on [LinkedIn](https://www.linkedin.com/in/danielvanc/) and [X](https://www.twitter.com/danielvanc).
