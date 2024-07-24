@@ -3,7 +3,7 @@
 Hey! I'm Daniel Van Cuylenburg, a 44yr old, Senior Front-end Engineer at [Vyne](https://payvyne.com), who works remotely from the Isle of Wight, U.K. 
 
 ## About me
-I'm a self taught, digital creative and life long learner, since 2000. I have gained valuable experience in web u.i design, back and front-end development and some project management. My particular focus and specialism is in web site and app front-end engineering. I love to be involved in creating interesting projects that solve real world problems, and building beautiful, user centered, experiences. To learn more, please visit [my personal site](https://www.danielvanc.com).
+I'm a self taught, digital creative and life long learner, since 2000. I have gained valuable experience in web u.i design, back and front-end development, and project management. My particular focus and specialism is in web site and app front-end engineering. I love to be involved in creating interesting projects that solve real world problems, and building beautiful, user centered, experiences. To learn more, please visit [my personal site](https://www.danielvanc.com).
 
 ## Technical skills
 - Languages: JavaScript and TypeScript
