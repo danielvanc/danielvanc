@@ -15,9 +15,9 @@ I'm a self taught, digital creative and life long learner, since 2000. I have ga
 
 My current pinned projects (below) are the the one's I'm aiming to achieve, but the one's i'm currently active on are:
 
-- **Baseline**: An NBA Stats web app for basketball fans following the current season (NextJS)
-- **Bookworm**: A handy, modern web app for book lovers (Remix)
-- **HubDash**: Easy way to keep up with activity from the Github repo's you've starred. (NextJS)
+- [**Baseline**](https://github.com/danielvanc/Baseline): An NBA Stats web app for basketball fans following the current season (NextJS)
+- [**Bookworm**](https://github.com/danielvanc/Bookworm): A handy, modern web app for book lovers (Remix)
+- [**HubDash**](https://github.com/danielvanc/HubDash): Easy way to keep up with activity from the Github repo's you've starred. (NextJS)
 
 ## Professional goals
 - **Career**: Focused on furthering my career in software development, specifically in roles that leverage my front-end experience and technical skills in building impactful solutions.
