@@ -27,14 +27,7 @@ My current pinned projects (below) are the the one's I'm aiming to achieve, but 
 ## Tech stack 
 I use allot of tools in my day to day work, but the main one's are: 
 
-- [Next JS](https://nextjs.org/) and [Remix](https://remix.run)
-- [Tailwind](https://tailwindcss.com/)
-- [Vercel](https://vercel.com/) and [Fly.io](https://fly.io/)
-- [Prisma](https://www.prisma.io/)
-- [Supabase](https://supabase.com)
-- [Jest](https://jestjs.io/) and [ViTest](https://vitest.dev/)
-- [Playwright](https://playwright.dev/)
-- [MSW](https://mswjs.io/)
+[Next JS](https://nextjs.org/) and [Remix](https://remix.run), [Tailwind](https://tailwindcss.com/), [Vercel](https://vercel.com/) and [Fly.io](https://fly.io/), [Prisma](https://www.prisma.io/), [Supabase](https://supabase.com), [Jest](https://jestjs.io/) and [ViTest](https://vitest.dev/), [Playwright](https://playwright.dev/) and [MSW](https://mswjs.io/).
 
 ## Get in touch
 Find me on: [LinkedIn](https://www.linkedin.com/in/danielvanc/) and [X](https://www.twitter.com/danielvanc)
