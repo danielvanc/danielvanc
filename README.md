@@ -1,6 +1,6 @@
 
 
-Hey! I'm Daniel Van Cuylenburg, a 44yr old, Senior Front-end Engineer at [Vyne](https://payvyne.com), who works remotely from the Isle of Wight, U.K. 
+Hey! I'm Daniel Van Cuylenburg, a Senior Front-end Engineer at [Vyne](https://payvyne.com), living on the Isle of Wight, U.K. 
 
 ## About me
 I'm a self taught, digital creative and life long learner. From being in the industry since 2000, I've gained valuable experience in U.I design, front-end development and project management. My particular focus and specialism is in web site and web app engineering. I love to be involved in creating interesting projects that solve real world problems, and building beautiful, user centered, experiences. To learn more, please visit [my personal site](https://www.danielvanc.com).
@@ -28,6 +28,3 @@ My current pinned projects (below) are the the one's I'm aiming to achieve, but 
 I use allot of tools in my day to day work, but the main one's are: 
 
 [Next JS](https://nextjs.org/) and [Remix](https://remix.run), [Tailwind](https://tailwindcss.com/), [Vercel](https://vercel.com/) and [Fly.io](https://fly.io/), [Prisma](https://www.prisma.io/), [Supabase](https://supabase.com), [Jest](https://jestjs.io/) and [ViTest](https://vitest.dev/), [Playwright](https://playwright.dev/) and [MSW](https://mswjs.io/).
-
-## Get in touch
-Find me on: [LinkedIn](https://www.linkedin.com/in/danielvanc/) and [X](https://www.twitter.com/danielvanc)
