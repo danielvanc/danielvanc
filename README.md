@@ -9,7 +9,7 @@ I'm a self taught, digital creative and life long learner. From being in the ind
 - Languages: JavaScript and TypeScript
 - Frameworks and Libraries: React, NextJS, Remix and NodeJS
 - Platforms: Docker, Vercel, Fly.io, AWS S3, Github, Gitlab, 
-- Backend: SQL, Schemas, Prisma, Supabase, Sanity.io
+- Backend: SQL, Prisma, Supabase, Sanity.io
 
 ## Projects
 
