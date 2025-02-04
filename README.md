@@ -16,7 +16,7 @@ I'm a self taught, digital creative and life long learner. From being in the ind
 My current pinned projects (below) are the the one's I'm aiming to achieve, but the one's i'm currently active on are:
 
 - [**TextBook**](https://github.com/danielvanc/textbook): A blog post sharing platform. (NextJS)
-- [**Baseline**](https://github.com/danielvanc/Baseline): An NBA Stats web app for basketball fans following the current season (Remix)
+- [**Baseline**](https://github.com/danielvanc/Baseline): An NBA Stats web app for basketball fans following the current season (ReactRouter v7)
 - [**Bookworm**](https://github.com/danielvanc/Bookworm): A handy, modern web app for book lovers (Remix)
 
 ## Professional goals
